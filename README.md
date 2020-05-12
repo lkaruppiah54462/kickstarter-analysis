@@ -6,7 +6,7 @@ Performing analysis on kickstarter data to see correlation to outcome a) based o
 #### a)Based on Goal (Plays)
 Observation 
 ---
-1. 
+1. Successful campaigns > Failed Campaigns for Goal < $15000
 #### b)Based On Launch Date (Theater)
 Observation
 1. The most successful Kickstarter campaigns were started in May. 
