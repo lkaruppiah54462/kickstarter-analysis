@@ -12,13 +12,9 @@ Observation
 ---
 Limitation
 1. Perhaps we should have data on
----
    a) Duration of play
----
    b) Expected sales
----
    c) Impact of play
----
    to gauge how these affect the outcome
 ---
 #### b)Based On Launch Date (Theater)
