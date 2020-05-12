@@ -19,5 +19,5 @@ Performing analysis on kickstarter data to see correlation to outcome based on l
 4. With the theater category, there is a better chance of success than failure, as success > Failure for all months. Overall, success is > 60%
 
 Limitation
-1. Probaly sort it by geographic location and season (winter) to see trends better. As most countries are in Northern Hemisphere, the data is skewed towards Dec. It may be, winter is a factor for the outcome
+1. Probaly sort it by geographic location and season (winter) to see trends better. As most countries are in Northern Hemisphere, the data is skewed towards Dec. It may be, winter is a factor for the outcome/activity
 2. 
