@@ -9,3 +9,11 @@ Performing analysis on kickstarter data uncover trends and to provide direction 
 ---
 ### Challenge
 Performing analysis on kickstarter data to see correlation to outcome based on launch month of campaign 
+---
+1. The most successful Kickstarter campaigns were started in May. 
+---
+2. On the other hand, December  doesn’t seem like a great time to launch a campaign. 
+---
+3.Cancellations are only a few throught the years. So Majority in the Theater category does get launched
+
+Limitation
