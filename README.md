@@ -5,10 +5,11 @@ Performing analysis on kickstarter data uncover trends and to provide direction 
 Performing analysis on kickstarter data to see correlation to outcome a) based on goal b)based on launch date of  campaign 
 #### a)Based on Goal (Plays)
 Observation 
----
 1. Successful campaigns > Failed Campaigns for Goal < $15000. It is important to be realistic when setting goals.
 2. > 70% campaign successful for goal < $10000
 3. > 90% of campaign goal is < $15000. If a goal is >  $15000, it must have very good reasons.
+4. Plays have zero cancelled outcomes, indicating full activity to the end .
+Limitation
 #### b)Based On Launch Date (Theater)
 Observation
 1. The most successful Kickstarter campaigns were started in May. 
