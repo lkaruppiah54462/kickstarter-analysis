@@ -8,4 +8,4 @@ Performing analysis on kickstarter data uncover trends and to provide direction 
 [Kickstarter Analysis](C:\Users\laksh\OneDrive\Desktop\DataAnalytics Bootcamp\Analysis Projects\Crowdfunding Analysis\Kickstarter Analysis.docx)
 ---
 ### Challenge
-Performing analysis on kickstarter data to see correlation to outcome based on lauch month of campaign 
+Performing analysis on kickstarter data to see correlation to outcome based on launch month of campaign 
