@@ -3,7 +3,6 @@ Performing analysis on kickstarter data uncover trends and to provide direction 
 ---
 ## Challenge
 Performing analysis on kickstarter data to see correlation to outcome a) based on goal b)based on launch date of  campaign 
----
 #### a)Based on Goal
 Observation 
 ---
