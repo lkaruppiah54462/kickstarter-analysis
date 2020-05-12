@@ -8,7 +8,8 @@ Observation
 1. Successful campaigns > Failed Campaigns for Goal < $15000. It is important to be realistic when setting goals.
 2. Greater than 70% campaign successful for goal < $10000
 3. Greater than 90% of campaign goal is < $15000. If a goal is >  $15000, it must have very good reasons.
-4. Plays have zero cancelled outcomes, indicating full activity to the end .
+4. Plays have zero cancelled outcomes, indicating full activity to the end.
+---
 Limitation
 1. Perhaps we should have data on 
    a) Duration of play
