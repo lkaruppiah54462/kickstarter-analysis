@@ -3,6 +3,8 @@ Performing analysis on kickstarter data uncover trends and to provide direction 
 ---
 ### Challenge
 Performing analysis on kickstarter data to see correlation to outcome based on launch date of campaign 
+
+Observation
 ---
 1. The most successful Kickstarter campaigns were started in May. 
 ---
