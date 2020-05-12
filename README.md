@@ -7,6 +7,7 @@ Performing analysis on kickstarter data to see correlation to outcome a) based o
 a) Based on Goal
 ---
 Observation 
+---
 b) Based On Launch Date
 Observation
 1. The most successful Kickstarter campaigns were started in May. 
