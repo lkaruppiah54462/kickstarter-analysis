@@ -28,4 +28,4 @@ Limitation
 1. Perhaps we should sort it by geographic location and season (winter) to see trends better. As most countries are in Northern Hemisphere (Data needed OR  to be generated based on country), the data is skewed towards Dec. It may be, winter is a factor for the outcome/activity
 2. The spread in number of campaigns by month in a year is rather large. To understand this better drill down by country/city etc. 
 
-![OBOG](./Outcomes%20Based%20On%20Goal.png
+![OBOG](./Outcomes%20Based%20On%20Goal.png)
