@@ -29,3 +29,4 @@ Limitation
 2. The spread in number of campaigns by month in a year is rather large. To understand this better drill down by country/city etc. 
 
 ![OBOG](./Outcomes%20Based%20On%20Goal.png)
+![OBLD](./Outcome%20Based%20On%20Launch%20Date.png)
